@@ -1,0 +1,6 @@
+[submodule "sitoAnna/themes/eternity"]
+	path = sitoAnna/themes/eternity
+	url = https://github.com/boratanrikulu/eternity.git
+[submodule "sito2/themes/eternity"]
+	path = sito2/themes/eternity
+	url = https://github.com/boratanrikulu/eternity.git
